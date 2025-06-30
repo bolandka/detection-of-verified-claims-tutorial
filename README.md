@@ -212,7 +212,7 @@ data/mydata/pred_qrels.tsv
 #### Clone the CLEF CheckThat! Lab 2020 repository
 
 ```bash
-git https://github.com/sshaar/clef2020-factchecking-task2
+git clone https://github.com/sshaar/clef2020-factchecking-task2
 cd clef2020-factchecking-task2
 ```
 
